@@ -1,0 +1,124 @@
+.main {
+    background-color: #FFFFFF!important;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.wrapp {
+    width: 1200px;
+    height: 133px;
+    top: 354px;
+    left: 119px;
+    border-radius: 5px;
+    background-color: #F6F6F9;
+    margin: 0 auto;
+    align-items: center;
+    margin-top: 50px;
+    transform: translateY(30px);
+    margin-left: -50px;
+}
+
+.wrapp__list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.wrapp__list--item {
+    display: flex;
+}
+
+// .wrapp__list--img {
+//     width: 43px;
+//     height: 45px;
+//     // top: 398px;
+//     // left: 197px;
+//     // margin-top: 20px;
+// }
+
+.wrapp__head {
+    width: 234px;
+    top: 396px;
+    left: 222px;
+    font-family: Rubik;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: black;
+    margin-top: 25px;
+    margin-left: 10px;
+}
+
+.wrapp__item--h1 {
+    width: 2px;
+    height: 74px;
+    top: 384px;
+    left:525px;
+    background-color: #f01414;
+    margin-left: 30px;
+}
+
+.wrapp__list--item {
+    margin-left: 20px;
+}
+
+.wrapp__list--item--span1 {
+    width: 161px;
+    top: 395px;
+    left: 611px;
+    font-family: Rubik;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;    
+}
+
+.wrapp__item--h2 {
+    width: 2px;
+    height: 49px;
+    top: 396px;
+    left: 814px;
+    background-color: #a84954;
+    margin-top: 25px;
+}
+
+.wrapp__list--item--span2 {
+    width: 161px;
+    height: 52px;
+    top: 395px;
+    left: 902px;
+}
+
+.wrapp__list--item--span2 {
+    font-family: Rubik;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.wrapp__item--h3 {
+    width: 2px;
+    height: 49px;
+    top: 396px;
+    left: 1072px;
+    background-color: #bd3747;
+    margin-top: 25px;
+}
+
+.wrapp__list--item--span3 {
+    width: 10px;
+    top: 395px;
+    left: 1158px;
+    font-family: Rubik;
+    font-size: 25px;
+    font-weight: 500;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: black;
+}

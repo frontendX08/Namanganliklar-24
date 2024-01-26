@@ -1,0 +1,233 @@
+.sidebar {
+    display: flex;
+}
+
+.sidebar {
+    margin-top: 50px;
+}
+
+.sidebar__box {
+    margin-top: 30px;
+}
+
+.sidebar__list__item {
+    display: flex;
+    margin-top: 20px;
+}
+
+.sidebar__heading {
+    width: 198px;
+    top: 1232px;
+    left: 119px;
+    font-family: Rubik;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: black;
+    margin-left: -80px;
+}
+
+.sidebar__img1 {
+    width: 252px;
+    height: 143px;
+    top: 1271px;
+    left: 119px;
+    border-radius: 5px;
+    margin-left: -80px;
+    margin-right: 20px;
+}
+
+
+.sidebar__heading3 {
+    width: 434px;
+    top: 1271px;
+    left: 390px;
+    font-family: Rubik;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #202020;
+}
+
+.sidebar__text {
+    width: 512px;
+    height: 55px;
+    top: 1321px;
+    left: 390px;
+    font-family: Rubik;
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #434343;
+}
+
+.sedebar__content {
+    margin-left: -80px;
+}
+
+
+
+.sidebar__input {
+    margin-left: -370px;
+}
+
+.sidebar__button {
+    width: 211px;
+    height: 42px;
+    top: 2237px;
+    left: 414px;
+    border-radius: 5px;
+    background-color: #295093;
+    margin-top: 35px;
+    // margin-left: -630px; 
+    border: none;
+}
+
+.sidebar__button--span {
+    width: 148px;
+    top: 2247px;
+    left: 445px;
+    font-family: Rubik;
+    font-size: 17px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #FFFFFF;
+}
+
+.sidebar__button:active {
+    background-color: #202020;
+}
+
+.sidebar__content {
+    margin-top: 30px;
+    margin-left: 25px;
+}
+
+.sidebar__content--list {
+    width: 386px;
+    height: 570px;
+    top: 1240px;
+    left: 933px;
+    border-radius: 5px;
+    background-color: #F6F6F9;
+}
+
+.sidebar__content--heading {
+    width: 280px;
+    top: 1256px;
+    left: 953px;    
+    font-family: Rubik;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #202020;
+    padding-top: 10px;
+}
+
+.sidebar__content--text {
+    width: 347px;
+    top: 1288px;
+    left: 953px;
+    font-family: Rubik;
+    font-size: 17px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #202020;
+}
+
+.sidebar__content--input {
+    margin-left: -210px;
+    margin-top: -50px;
+}
+
+.sidebar__content--hr {
+    width: 346px;
+    height: 4px!important;
+    top: 1522px;
+    left: 953px;
+    background-color: #E4E4E4;
+}
+
+.sidebar__content--img {
+    width: 386px;
+    height: 477px;
+    top: 1802px;
+    left: 933px;
+    border-radius: 5px;
+}
+
+.sedebar__item--img {
+    width: 794px;
+    height: 379px;
+    top: 352px;
+    left: 119px;
+    // margin-left: 50px;
+}
+
+.sedebar__item1 {
+    width: 794px;
+    top: 747px;
+    left: 119px;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: black;
+    margin-top: 10px;
+}
+
+.sedebar__content {
+    margin-top: 40px;
+    // margin-left: -50px;
+}
+
+.sedebar__item2,.sedebar__item3,.sedebar__item4,.sedebar__item5,.sedebar__item6,.sedebar__item7,.sedebar__item8{
+    width: 794px;
+    top: 747px;
+    left: 119px;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: black;
+    margin-top: 20px;
+}
+ 
+.sedebar__item4 {
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.sedebar__item9 {
+    width: 790px;
+    top: 1363px;
+    left: 119px;
+    font-family: Rubik;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #206bdd;
+    margin-top: 20px;
+}

@@ -1,0 +1,45 @@
+  
+  /*
+   * Add the correct display in Edge, IE 10+, and Firefox.
+   */
+  
+   details {
+    display: block;
+  }
+  
+  /*
+   * Add the correct display in all browsers.
+   */
+  
+  summary {
+    display: list-item;
+  }
+  
+  /* Misc
+     ========================================================================== */
+  
+  /**
+   * Add the correct display in IE 10+.
+   */
+  
+  template {
+    display: none;
+  }
+  
+  /**
+   * Add the correct display in IE 10.
+   */
+  
+  [hidden] {
+    display: none;
+  }
+
+ ul, ol, p {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+ }
+
+ a {
+    text-decoration: none;
+ }

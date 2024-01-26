@@ -1,0 +1,138 @@
+.header__list {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 50px;
+    width: 1230px;
+    margin-left: -70px;
+}
+
+.header__span--item {
+    margin-left: 20px;
+}
+
+.header__button--1 {
+    border: none;
+    background-color: #FFFFFF;
+    margin-right: 10px;
+    height: 40px;
+    border-radius:  8px;
+}
+
+.button {
+    width: 70px;
+}
+
+.button1 {
+    width: 50px;
+}
+
+.header__logo {
+    width: 320px;
+    height: 40px;
+    top: 44px;
+    left: 119px;
+    border-radius: 5px;
+}
+
+.header__span--item {
+    width: 258px;
+    top: 54px;
+    left: 456px;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #7A7A7A;
+    margin-left: 50px;
+}
+
+.header__span--span {
+    color: #053582;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    margin-right: 5px;
+}
+
+.header__button {
+    border: none;
+    width: 146px;
+    height: 40px;
+    top: 44px;
+    left: 1173px;
+    border-radius: 5px;
+    background-color: #1E96C8;
+}
+
+
+.header__button:hover {
+    background-color: #3f8eb0;
+}
+
+.header__button:active {
+    background-color: #56a8cc;
+}
+
+.header__button--img {
+    width: 19.38px;
+    height: 19.38px;
+    top: 0.31px;
+    left: 0.31px;
+    align-items: center;
+}
+
+.header__link--item {
+    text-decoration: none;
+    margin-left: 20px;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #7A7A7A;
+}
+
+.header__link--item:active {
+    color: rgb(237, 205, 20);
+}
+
+.header__button--span {
+    width: 97px;
+    top: 55px;
+    left: 1210px;
+    font-family: Rubik;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: white;
+}
+
+.heading1 {
+    width: 508px;
+    height: 62px;
+    top: 327px;
+    left: 388px;
+    font-family: Rubik;
+    font-size: 26px;
+    font-weight: 500;
+    line-height: 31px;
+    letter-spacing: 0em;
+    text-align: center;
+    color:#295093;
+    margin-left: -20px;
+}
+
+.button__item {
+    margin-left: 150px;
+    margin-top: 70px;
+}
+

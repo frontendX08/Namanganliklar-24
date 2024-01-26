@@ -1,0 +1,50 @@
+.hero {
+    width: 1200px;
+    height: 68px;
+    top: 124px;
+    left: 119px;
+    margin-left: -40px;
+    margin-top: 60px;
+    // display: block;
+}
+
+.hero__list {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+    background-color:rgb(260, 250, 250);
+    width: 1200px;
+    height: 68px;
+}
+
+.hero__list--item {
+    margin-top: 20px;
+    top: 145px;
+    left: 143px;
+
+}
+
+.hero__list--link {
+    text-decoration: none;
+    font-family: Rubik;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 23px;
+    letter-spacing: 0em;
+    text-align: left;
+    color:#515151;
+}
+
+.hero__img {
+    width: 1200px;
+    height: 99px;
+    top: 210px;
+    left: 119px;
+    border: 1px;
+    margin-top: 50px;
+    margin-left: -40px;
+}
+
+.hero__list--link:active {
+    color: rgb(226, 156, 16);
+}
